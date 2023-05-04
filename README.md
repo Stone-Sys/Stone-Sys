@@ -1,5 +1,5 @@
 # expert-octo-journey
 
-- Cybersecurity beginner
-- Python programmer
-- Studying Data Science
+- Cybersecurity
+- Developer Python/JavaScript/C/Lua/bash
+- Studying Computer Science
