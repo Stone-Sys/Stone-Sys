@@ -1,5 +1,5 @@
 # expert-octo-journey
 
 - Cybersecurity
-- Developer Python/JavaScript/C/Lua/bash
+- Developer
 - Studying Computer Science
