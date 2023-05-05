@@ -1,5 +1,7 @@
 # expert-octo-journey
 
-- Cybersecurity
-- Developer
-- Studying Computer Science
+## Studying Cybersecurity
+
+### Developer in process
+
+#### Computer Science
