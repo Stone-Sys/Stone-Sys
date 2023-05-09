@@ -2,6 +2,6 @@
 
 ## Studying Cybersecurity
 
-### Developer in process
+### FullStack Developer · in process
 
 #### Computer Science
