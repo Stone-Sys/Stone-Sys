@@ -9,7 +9,6 @@
 - 👀 I'm interested in everything related to Computer Science
 - 🌱 I’m currently learning **Bash**, **Cybersecurity**, **JavaScript**, **PHP** and **Python**
 - 📫 Contact to me in Stone-Sys#4534
-<hr>
 ### The learning path never ends.
 
 
