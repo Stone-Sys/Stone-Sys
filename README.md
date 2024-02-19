@@ -6,9 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stone-Sys" alt="Stone-Sys" /></a> </p>
 
 - 👀 I'm interested in everything related to Computer Science
-- 🌱 I’m currently learning **Cybersecurity**, **Python**, **PHP** and **JavaScript** 
+- 🌱 I’m currently learning **Bash**, **Cybersecurity**, **JavaScript**, **PHP** and **Python**
 - 📫 Contact to me in Stone-Sys#4534
 
+### The learning path never ends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
