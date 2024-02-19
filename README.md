@@ -8,8 +8,7 @@
 - 👀 I'm interested in everything related to Computer Science
 - 🌱 I’m currently learning **Bash**, **Cybersecurity**, **JavaScript**, **PHP** and **Python**
 - 📫 Contact to me in Stone-Sys#4534
-
-### The learning path never ends.
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,3 +67,5 @@
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stone-Sys&show_icons=true&locale=en&layout=compact" alt="Stone-Sys" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&locale=en" alt="Stone-Sys" /></p>
+
+#### The learning path never ends.
