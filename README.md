@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Stone-Sys</h1>
-<h3 align="center">A passionate learner & aspiring hacker from Argentina</h3>
+<h3 align="center">A passionate, life-long learner & aspiring hacker from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stone-Sys&label=Profile%20views&color=0e75b6&style=flat" alt="Stone-Sys" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stone-Sys" alt="Stone-Sys" /></a> </p>
 
-### The learning path never ends.
 - 👀 I'm interested in everything related to Computer Science
 - 🌱 I’m currently learning **Bash**, **Cybersecurity**, **JavaScript**, **PHP** and **Python**
 - 📫 Contact to me in Stone-Sys#4534
