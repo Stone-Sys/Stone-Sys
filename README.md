@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stone-Sys</h1>
 <h3 align="center">A passionate, life-long learner & aspiring hacker from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stone-Sys&label=Profile%20views&color=0e75b6&style=flat" alt="Stone-Sys" /> </p>
 
 ## 🚀 About Me
 - 👩‍💻 I'm interested in everything related to Computer Science
@@ -16,7 +15,8 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 <p align="left">
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="bash" width="40" height="40" style="border-radius:5px" /> 
 </a>
@@ -64,7 +64,7 @@
 
 <br>
 
-<h3 align="left">Stats:</h3>
+## Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stone-Sys&show_icons=true&locale=en&layout=compact" alt="Stone-Sys" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&locale=en" alt="Stone-Sys" /></p>
 
