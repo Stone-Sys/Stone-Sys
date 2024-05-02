@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stone-Sys&label=Profile%20views&color=0e75b6&style=flat" alt="Stone-Sys" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stone-Sys" alt="Stone-Sys" /></a> </p>
+## 🚀 About Me
+- 👩‍💻 I'm interested in everything related to Computer Science
+- 🧠 I’m currently learning **Bash**, **Cybersecurity**, **JavaScript**, **PHP** and **Python**
+- 📫 Contact to me in **Stone-Sys#4534**
 
-- 👀 I'm interested in everything related to Computer Science
-- 🌱 I’m currently learning **Bash**, **Cybersecurity**, **JavaScript**, **PHP** and **Python**
-- 📫 Contact to me in Stone-Sys#4534
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elrincondeisma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Stone-Sys" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/el rincon de isma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Stone-Sys" height="30" width="40" /></a>
-</p>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
