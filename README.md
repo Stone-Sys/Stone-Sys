@@ -25,7 +25,7 @@ I am a Physics student (UBA) with a deep interest in how things work—from the 
 
 ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Stone-Sys]&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&theme=tokyonight)
 
 ---
 
