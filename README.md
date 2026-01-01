@@ -1,44 +1,42 @@
 # Hi there, I'm Máximo! 👋
 
-### 🔬 Aspiring Physicist | 💻 Linux & Python Enthusiast | ⚡ Problem Solver
+### 🔬 Scientific Software Engineer | 🌌 Aspiring Theoretical Physicist | ⚡ Problem Solver
 
-I am a Physics student (UBA) with a deep interest in how things work—from the fundamental laws of the universe to the low-level configurations of a Linux kernel. I apply a **"reverse-engineering" mindset** to everything I learn, focusing on building robust, automated solutions and understanding complex systems.
-
----
-
-### 🛠️ Tech Stack & Learning Journey
-
-- **Languages:** Python (NumPy, Pandas, Matplotlib), Bash Scripting.
-- **Operating Systems:** Advanced Linux User (Debian/Ubuntu), focused on System Administration and Privilege Escalation.
-- **Tools:** Git, GitHub, SSH, Vim, Networking Fundamentals.
-- **Core Interests:** Computational Physics, Cyber Security, and AI.
+I am a Physics student at the University of Buenos Aires (UBA), dedicated to unraveling the fundamental laws of the universe through the lens of **Computational Physics and Artificial Superintelligence (ASI)**. I apply a rigorous "reverse-engineering" mindset to complex systems, bridging the gap between abstract mathematical theory and robust, automated technical solutions.
 
 ---
 
-### 📈 Current Focus (Summer 2025/26)
+### 🛠️ Tech Stack & Scientific Workflow
 
-- 📚 **Academic:** Mastering Calculus (Spivak) and Linear Algebra (Strang).
-- 🐍 **Coding:** Completing the *Google IT Automation with Python* Professional Certificate.
-- 🛡️ **Security:** Practicing Linux Privilege Escalation and Networking on TryHackMe/HackTheBox.
+- **Languages:** Python (NumPy, Pandas, Matplotlib, SciPy), Bash Scripting, LaTeX.
+- **Ecosystem:** Advanced Linux Architect (Debian/Ubuntu), focused on Environment Automation and High-Performance Computing (HPC).
+- **Tools:** Git, GitHub, Docker, SSH, Neovim, Networking Fundamentals.
+- **Core Research:** Computational Physics, ASI Architectures, and Quantum-ready Algorithms.
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 Current Strategic Focus (Bridge System 2025/26)
+
+- 📚 **Academic Rigor:** Mastering Real Analysis via **Spivak’s Calculus** and Linear Algebra through **Strang’s** vector space approach.
+- 🐍 **Engineering:** Advanced Infrastructure Automation and Data Manipulation (Scientific Python Stack).
+- 🇬🇧 **Linguistic Excellence:** Consolidating **C2 Proficiency (CPE)** to engage with global research at the highest academic level.
+
+---
+
+### 📊 Professional Metrics
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📫 How to reach me
+### 📫 Connect with me
 
-- **LinkedIn:** https://www.linkedin.com/in/maximoescalante/
-- **Current Location:** Buenos Aires, Argentina 🇦🇷
-- **English Level:** C1/C2 - Full Professional Proficiency
+- **LinkedIn:** [maximoescalante](https://www.linkedin.com/in/maximoescalante/)
+- **Location:** Buenos Aires, Argentina 🇦🇷
+- **English Level:** C2 - Full Professional Proficiency (Candidate)
 
 *"The first principle is that you must not fool yourself and you are the easiest person to fool." — Richard Feynman*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Stone-Sys&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
