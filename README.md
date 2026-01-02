@@ -33,7 +33,7 @@ I am a Physics student at the University of Buenos Aires (UBA), dedicated to unr
 
 - **LinkedIn:** [maximoescalante](https://www.linkedin.com/in/maximoescalante/)
 - **Location:** Buenos Aires, Argentina 🇦🇷
-- **English Level:** C2 - Full Professional Proficiency (Candidate)
+- **English Level:** Full Professional Proficiency in English (C1/C2)
 
 *"The first principle is that you must not fool yourself and you are the easiest person to fool." — Richard Feynman*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
