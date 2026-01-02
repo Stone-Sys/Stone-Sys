@@ -13,10 +13,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Stone-Sys
-          template: classic
+          template: terminal # Cambiado a terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
           
+          # Plugins que ya tenías (mantengo tu configuración)
           base_hireable: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -24,17 +25,34 @@ jobs:
           plugin_achievements_threshold: C
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: javascript, html, css
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          repositories_batch: 100
           
-          # Forzamos el modo oscuro para que no use el blanco de GitHub
+          # Customización Estética Kitty + Tokyonight
+          extras_css: |
+            .terminal {
+              background: rgba(26, 27, 38, 0.75) !important; /* Opacity de tu kitty.conf */
+              color: #a9b1d6 !important;
+              font-family: 'JetBrainsMono Nerd Font Mono', monospace !important;
+              padding: 10px !important; /* window_padding_width */
+              border-radius: 8px;
+              border: 1px solid #414868;
+            }
+            .terminal-header {
+              background: #16161e !important;
+              color: #7aa2f7 !important;
+            }
+            /* Botones estilo bspwm/Tokyo */
+            .terminal-button.close { background: #f7768e !important; }
+            .terminal-button.minimize { background: #e0af68 !important; }
+            .terminal-button.maximize { background: #9ece6a !important; }
+            
+            /* Colores de contenido basados en tu kitty.conf */
+            h1, h2, h3 { color: #bb9af7 !important; } /* color5 */
+            .field svg { fill: #7aa2f7 !important; }  /* color4 */
+            b { color: #7dcfff !important; }          /* color6 */
+
           config_display: large
