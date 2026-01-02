@@ -25,7 +25,7 @@ I am a Physics student at the University of Buenos Aires (UBA), dedicated to unr
 
 ### 📊 Professional Metrics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&theme=tokyonight)
+![Máximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ---
 
@@ -33,7 +33,7 @@ I am a Physics student at the University of Buenos Aires (UBA), dedicated to unr
 
 - **LinkedIn:** [maximoescalante](https://www.linkedin.com/in/maximoescalante/)
 - **Location:** Buenos Aires, Argentina 🇦🇷
-- **English Level:** Full Professional Proficiency in English (C1/C2)
+- **English Level:** Certified C1 (Advanced) | Actively pursuing C2 (Proficiency) for Academic Research.
 
 *"The first principle is that you must not fool yourself and you are the easiest person to fool." — Richard Feynman*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
