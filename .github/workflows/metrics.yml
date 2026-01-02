@@ -17,24 +17,24 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
           
-          # Colores oficiales Tokyonight Storm
-          extras_css: |
-            :root {
-              --color-canvas-default: #1a1b26;    /* Fondo oscuro */
-              --color-fg-default: #a9b1d6;        /* Texto gris azulado */
-              --color-accent-fg: #7aa2f7;         /* Azul keywords */
-            }
-            .field svg { fill: #7aa2f7 !important; }
-            .field { color: #9ece6a !important; } /* Verde para números */
-            h1, h2, h3 { color: #bb9af7 !important; } /* Púrpura para títulos */
-            .border { border-color: #414868 !important; } /* Bordes sutiles */
-
-          # Plugins que mencionaste
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          base_hireable: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_ignored: javascript, html, css
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          repositories_batch: 100
           
           # Forzamos el modo oscuro para que no use el blanco de GitHub
           config_display: large
