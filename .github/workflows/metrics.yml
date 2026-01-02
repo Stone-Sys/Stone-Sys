@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Se ejecuta cada 24 horas
   schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -19,7 +17,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
           
-          # Personalización Tokyonight
+          # Personalización Tokyonight (CSS Seguro)
           extras_css: |
             :root {
               --color-canvas-default: #1a1b26;
@@ -29,62 +27,7 @@ jobs:
             .field { color: #9ece6a; }
             h1, h2, h3 { color: #bb9af7 !important; }
           
-          extras_js: |
-            for (const {a, b} of [
-              {a:"#216e39", b:"#7aa2f7"},
-              {a:"#30a14e", b:"#2ac3de"},
-              {a:"#40c463", b:"#b4f9f8"},
-              {a:"#9be9a8", b:"#414868"},
-              {a:"#ebedf0", b:"#16161e"},
-            ])
-            document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
-
-          # Plugins adicionales para un Físico
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-usedname: Metrics
-on:
-  # Se ejecuta cada 24 horas
-  schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecutarlo manualmente desde la pestaña Actions
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Stone-Sys
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Argentina/Buenos_Aires
-          
-          # Personalización Tokyonight
-          extras_css: |
-            :root {
-              --color-canvas-default: #1a1b26;
-              --color-fg-default: #a9b1d6;
-            }
-            .field svg { fill: #7aa2f7; }
-            .field { color: #9ece6a; }
-            h1, h2, h3 { color: #bb9af7 !important; }
-          
-          extras_js: |
-            for (const {a, b} of [
-              {a:"#216e39", b:"#7aa2f7"},
-              {a:"#30a14e", b:"#2ac3de"},
-              {a:"#40c463", b:"#b4f9f8"},
-              {a:"#9be9a8", b:"#414868"},
-              {a:"#ebedf0", b:"#16161e"},
-            ])
-            document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
-
-          # Plugins adicionales para un Físico
+          # Plugins para perfil científico
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
