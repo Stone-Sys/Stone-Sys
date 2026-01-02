@@ -17,18 +17,24 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
           
-          # Personalización Tokyonight (CSS Seguro)
+          # Colores oficiales Tokyonight Storm
           extras_css: |
             :root {
-              --color-canvas-default: #1a1b26;
-              --color-fg-default: #a9b1d6;
+              --color-canvas-default: #1a1b26;    /* Fondo oscuro */
+              --color-fg-default: #a9b1d6;        /* Texto gris azulado */
+              --color-accent-fg: #7aa2f7;         /* Azul keywords */
             }
-            .field svg { fill: #7aa2f7; }
-            .field { color: #9ece6a; }
-            h1, h2, h3 { color: #bb9af7 !important; }
-          
-          # Plugins para perfil científico
+            .field svg { fill: #7aa2f7 !important; }
+            .field { color: #9ece6a !important; } /* Verde para números */
+            h1, h2, h3 { color: #bb9af7 !important; } /* Púrpura para títulos */
+            .border { border-color: #414868 !important; } /* Bordes sutiles */
+
+          # Plugins que mencionaste
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_languages_sections: most-used
+          
+          # Forzamos el modo oscuro para que no use el blanco de GitHub
+          config_display: large
