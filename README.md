@@ -2,7 +2,7 @@
 
 ### 🔬 Scientific Software Engineer | 🌌 Aspiring Theoretical Physicist | ⚡ Problem Solver
 
-I am a Physics student at the University of Buenos Aires (UBA), dedicated to unraveling the fundamental laws of the universe through the lens of **Computational Physics and Artificial Superintelligence (ASI)**. I apply a rigorous "reverse-engineering" mindset to complex systems, bridging the gap between abstract mathematical theory and robust, automated technical solutions.
+I am a Physics student at the University of Buenos Aires (UBA), dedicated to unraveling the fundamental laws of the universe through the lens of **Computational Physics and Architectures for Artificial General Intelligence (AGI)**. I apply a rigorous "reverse-engineering" mindset to complex systems, bridging the gap between abstract mathematical theory and robust, automated technical solutions.
 
 ---
 
@@ -25,7 +25,7 @@ I am a Physics student at the University of Buenos Aires (UBA), dedicated to unr
 
 ### 📊 Professional Metrics
 
-![Máximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stone-Sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Metrics](https://metrics.lecoq.io/Stone-Sys?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FArgentina%2FBuenos_Aires)
 
 ---
 
