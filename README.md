@@ -25,7 +25,7 @@ I am a Physics student at the University of Buenos Aires (UBA), dedicated to unr
 
 ### 📊 Professional Metrics
 
-![Metrics](https://metrics.lecoq.io/Stone-Sys?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FArgentina%2FBuenos_Aires)
+![Metrics](github-metrics.svg)
 
 ---
 
