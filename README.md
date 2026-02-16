@@ -9,7 +9,7 @@ I am a Physics student at the University of Buenos Aires (UBA), dedicated to unr
 ### 🛠️ Tech Stack & Scientific Workflow
 
 - **Languages:** Python (NumPy, Pandas, Matplotlib, SciPy), Bash Scripting, LaTeX.
-- **Ecosystem:** Advanced Linux Architect (Debian/Ubuntu), focused on Environment Automation and High-Performance Computing (HPC).
+- **Ecosystem:** Advanced Linux Architect (Arch), focused on Environment Automation and High-Performance Computing (HPC).
 - **Tools:** Git, GitHub, Docker, SSH, Neovim, Networking Fundamentals.
 - **Core Research:** Computational Physics, AGI Architectures, and Quantum-ready Algorithms.
 
