@@ -19,7 +19,7 @@
 
 ---
 
-Physics undergraduate at [UBA – FCEN](https://exactas.uba.ar/). I'm interested in the theoretical side of things — Quantum Information Theory, the mathematical structure underneath quantum mechanics, and the long-term question of what quantum computation can actually do for machine intelligence.
+Physics undergraduate at [UBA - FCEN](https://exactas.uba.ar/). I'm interested in the theoretical side of things - Quantum Information Theory, the mathematical structure underneath quantum mechanics, and the long-term question of what quantum computation can actually do for machine intelligence.
 
 I approach problems the way a mathematician would: slowly, carefully, and with full justification for every step.
 
@@ -32,7 +32,7 @@ I approach problems the way a mathematician would: slowly, carefully, and with f
 
 **Reading**
 - Feynman Lectures on Physics
-- Gelfand – Algebra · Spivak – Calculus
+- Gelfand - Algebra · Spivak - Calculus
 - Nielsen & Chuang *(ahead)*
 
 **Languages & tools**
@@ -46,5 +46,5 @@ I approach problems the way a mathematician would: slowly, carefully, and with f
 ---
 
 <div align="center">
-<sub><i>"The first principle is that you must not fool yourself — and you are the easiest person to fool."</i><br>— Richard Feynman</sub>
+<sub><i>"The first principle is that you must not fool yourself - and you are the easiest person to fool."</i><br>— Richard Feynman</sub>
 </div>
